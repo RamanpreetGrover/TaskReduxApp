@@ -16,10 +16,6 @@ A simple React Native task management app using Redux for state management.
 - Redux Toolkit
 - React Redux
 
-## 📷 Screenshots
-
-<img src="screenshots/task-screen.png" alt="Task Screen" width="300"/>
-
 ## 🛠️ Getting Started
 
 ### Prerequisites
